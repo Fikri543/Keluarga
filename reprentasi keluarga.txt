@@ -1,0 +1,234 @@
+orang tua (hadi dan retno) :
+- hadi dan retno adalah orang tua dari Nisa
+- hadi dan retno adalah orang tua dari Nur
+- hadi dan retno adalah orang tua dari wahyu 
+- hadi dan retno adalah orang tua dari rina
+
+orang tua (Nisa dan Nur) :
+- Nisa dan Nur adalah orang tua dari tari 
+- Nisa dan Nur adalah orang tua dari nurul
+- Nisa dan Nur adalah orang tua dari yanto
+
+orang tua (Ardi dan Ana) :
+- Ardi dan Ana dalah orang tua dari eka
+- Ardi dan Ana dalah orang tua dari mira
+- Ardi dan Ana dalah orang tua dari Bastian
+
+orang tua (Fikri dan Tari) :
+- Fikri dan Tari adalah orang tua dari Wanda
+
+orang tua (nurul) :
+- Nurul adalah orang tua dari aji
+- Nurul adalah orang tua dari Gunawan 
+
+Orang tua ( Mira) :
+- Mira adalah orang tua dari Anggun 
+- Mira adalah orang tua dari Boy
+
+orang tua (rina) :
+- Rina adalah orang tua dari Hamzah
+
+Saudara laki-laki :
+- Wahyu, Nur, dan Ardi adalah saudara laki-laki dari Rina
+- Ardi adalah saudara laki-laki dari Nur dan Wahyu
+- Wahyu adalah saudara laki-laki dari Nur dan Ardi
+- Nur adalah saudara laki-laki dari Wahyu dan Ardi
+- Yanto adalah saudara laki-laki dari Nurul
+- Fikri adalah saudara laki-laki dari Nurul
+- Bastian adalah saudara laki-laki dari Eka dan Mira
+- Gunawan adalah saudara laki-laki dari Aji
+- Aji adalah saudara laki-laki dari Gunawan
+- Boy adalah saudara laki-laki dari Anggun
+
+Saudara perempuan :
+- Rina adalah saudara perempuan dari Nur, Wahyu, dan Ardi
+- Eka dan Mira adalah Saudara Perempuan dari Bastian
+- Mira adalah saudara perempuan dari Eka
+- Eka adalah saudara perempuan dari Mira
+- Anggun adalah saudara perempuan dari Boy
+- Nurul adalah saudara Perempuan dari Yanto dan Fikri
+
+paman :
+- Fikri adalah paman dari Aji 
+- Fikri adalah paman dari Gunawan
+- Fikri adalah paman dari Anggun 
+- Fikri adalah paman dari Boy
+- Yanto adalah paman dari Aji 
+- Yanto adalah paman dari Wanda
+- Yanto adalah paman dari Gunawan
+- Yanto adalah paman dari Anggun
+- Yanto adalah paman dari Boy
+- Hamzah adalah paman dari Wanda
+- Hamzah adalah paman dari Aji
+- Hamzah adalah paman dari Gunawan
+- Hamzah adalah paman dari Anggun
+- Hamzah adalah paman dari Boy
+- Bastian adalah paman dari Boy
+- Bastian adalah paman dari Anggun
+- Bastian adalah paman dari Gunawan
+- Bastian adalah paman dari Aji
+- Bastian adalah paman dari Wanda
+- Nur adalah paman dari Hamzah
+- Nur adalah paman dari Bastian
+- Nur adalah paman dari Mira
+- Nur adalah paman dari Eka
+- Nur adalah paman dari Yanto
+- Nur adalah paman dari Nurul
+- Nur adalah paman dari Tari
+- Nur adalah paman dari Fikri
+- Wahyu adalah paman dari Hamzah
+- Wahyu adalah paman dari Bastian
+- Wahyu adalah paman dari Mira
+- Wahyu adalah paman dari Eka
+- Wahyu adalah paman dari Yanto
+- Wahyu adalah paman dari Nurul
+- Wahyu adalah paman dari Tari
+- Wahyu adalah paman dari Fikri
+- Ardi adalah paman dari Hamzah
+- Ardi adalah paman dari Yanto
+- Ardi adalah paman dari Nurul
+- Ardi adalah paman dari Tari
+- Ardi adalah paman dari Fikri
+
+Bibi :
+- Mira adalah bibi dari Gunawan
+- Mira adalah bibi dari Aji
+- Mira adalah bibi dari Wanda
+- Eka adalah bibi dari Anggun
+- Eka adalah bibi dari Boy
+- Eka adalah bibi dari Gunawan
+- Eka adalah bibi dari Aji
+- Eka adalah bibi dari Wanda
+- Nurul adalah bibi Wanda
+- Nurul adalah bibi Anggun
+- Nurul adalah bibi Boy
+- Tari adalah bibi dari Aji
+- Tari adalah bibi dari Gunawan
+- Tari adalah bibi dari Anggun
+- Tari adalah bibi dari Boy
+- Nisa adalah bibi dari Hamzah
+- Nisa adalah bibi dari Eka
+- Nisa adalah bibi dari Mira 
+- Nisa adalah bibi dari Bastian
+- Rina adalah bibi dari Fikri
+- Rina adalah bibi dari Tari
+- Rina adalah bibi dari Nurul
+- Rina adalah bibi dari Yanto
+- Rina adalah bibi dari Eka
+- Rina adalah bibi dari Mira 
+- Rina adalah bibi dari Bastian
+- Ana adalah bibi dari Hamzah
+- Ana adalah bibi dari Yanto
+- Ana adalah bibi dari Nurul
+- Ana adalah bibi dari Tari
+- Ana adalah bibi dari Fikri
+
+Kakek : 
+- Hadi adalah kakek dari Bastian
+- Hadi adalah kakek dari Mira
+- Hadi adalah kakek dari Eka
+- Hadi adalah kakek dari Hamzah
+- Hadi adalah kakek dari Yanto
+- Hadi adalah kakek dari Nurul
+- Hadi adalah kakek dari Tari
+- Hadi adalah kakek dari Fikri
+- Nur adalah Kakek dari Gunawan
+- Nur adalah Kakek dari Aji
+- Nur adalah Kakek dari Wanda
+
+
+Nenek :
+- Nisa adalah nenek dari Wanda
+- Nisa adalah nenek dari Aji 
+- Nisa adalah nenek dari Gunawan
+- Retno adalah nenek dari Bastian
+- Retno adalah nenek dari Mira
+- Retno adalah nenek dari Eka
+- Retno adalah nenek dari Hamzah
+- Retno adalah nenek dari Yanto
+- Retno adalah nenek dari Nurul
+- Retno adalah nenek dari Tari
+- Retno adalah nenek dari Fikri
+
+Sepupu :
+- Nur adalah sepupu dari Wahyu
+- Nur adalah sepupu dari Rina
+- Nur adalah sepupu dari Ardi
+- Nur adalah sepupu dari Ana
+- Nisa adalah sepupu dari Wahyu
+- Nisa adalah sepupu dari Rina
+- Nisa adalah sepupu dari Ardi
+- Nisa adalah sepupu dari Ana
+- Wahyu adalah sepupu dari Nur
+- Wahyu adalah sepupu dari Nisa
+- Wahyu adalah sepupu dari Rina
+- Wahyu adalah sepupu dari Ardi
+- Wahyu adalah sepupu dari Ana
+- Rina adalah sepupu dari Nur
+- Rina adalah sepupu dari Nisa
+- Rina adalah sepupu dari Wahyu
+- Rina adalah sepupu dari Ardi
+- Rina adalah sepupu dari Ana
+- Ardi adalah sepupu dari Nur
+- Ardi adalah sepupu dari Nisa
+- Ardi adalah sepupu dari Rina
+- Ardi adalah sepupu dari Wahyu
+- Ana adalah sepupu dari Nur
+- Ana adalah sepupu dari Nisa
+- Ana adalah sepupu dari Rina
+- Ana adalah sepupu dari Wahyu
+- Wanda adalah sepupu dari Boy
+- Wanda adalah sepupu dari Aji 
+- Wanda adalah sepupu dari Gunawan
+- Wanda adalah sepupu dari Anggun
+- Wanda adalah sepupu dari Boy
+- Gunawan adalah sepupu dari Anggun
+- Gunawan adalah sepupu dari Boy
+- Gunawan adalah sepupu dari Wanda
+- Aji adalah sepupu dari Wanda
+- Aji adalah sepupu dari Anggun
+- Aji adalah sepupu dari Boy
+- Anggun adalah sepupu dari Aji
+- Anggun adalah sepupu dari Gunawan
+- Anggun adalah sepupu dari Wanda
+- Boy adalah sepupu dari Aji 
+- Boy adalah sepupu dari Gunawan
+- Boy adalah sepupu dari Wanda
+- Fikri adalah sepupu dari Hamzah
+- Fikri adalah sepupu dari Eka
+- Fikri adalah sepupu dari Mira
+- Fikri adalah sepupu dari Bastian
+- Tari adalah sepupu dari Hamzah
+- Tari adalah sepupu dari Eka
+- Tari adalah sepupu dari Mira
+- Tari adalah sepupu dari Bastian
+- Nurul adalah Sepupu dari Hamzah
+- Nurul adalah Sepupu dari Eka
+- Nurul adalah Sepupu dari Mira 
+- Nurul adalah Sepupu dari Bastian
+- Yanto adalah sepupu dari Hamzah
+- Yanto adalah sepupu dari Eka
+- Yanto adalah sepupu dari Mira
+- Yanto adalah sepupu dari Bastian
+- Hamzah adalah sepupu dari Fikri
+- Hamzah adalah sepupu dari Tari
+- Hamzah adalah sepupu dari Nurul
+- Hamzah adalah sepupu dari Yanto
+- Hamzah adalah sepupu dari Eka
+- Hamzah adalah sepupu dari Mira
+- Hamzah adalah sepupu dari Bastian
+- Eka adalah sepupu dari Hamzah
+- Eka adalah sepupu dari Yanto
+- Eka adalah sepupu dari Nurul
+- Eka adalah sepupu dari Tari
+- Eka adalah sepupu dari Fikri
+- Mira adalah sepupu dari Hamzah
+- Mira adalah sepupu dari Yanto
+- Mira adalah sepupu dari Nurul
+- Mira adalah sepupu dari Tari
+- Mira adalah sepupu dari Fikri
+- Bastian adalah sepupu dari Hamzah
+- Bastian adalah sepupu dari Yanto
+- Bastian adalah sepupu dari  Nurul
+- Bastian adalah sepupu dari Tari
+- Bastian adalah sepupu dari Fikri
